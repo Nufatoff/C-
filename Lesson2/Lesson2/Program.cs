@@ -211,7 +211,6 @@ namespace Lesson2
                 //int a = int.Parse(Console.ReadLine());
                 //Console.Write("b = ");
                 //int b = int.Parse(Console.ReadLine());
-                ////Recursive(a, b);
                 //int sum = 0;
                 //Recursive(a, b, sum);
                 //Console.ReadLine();
